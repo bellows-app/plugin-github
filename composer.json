@@ -1,6 +1,6 @@
 {
     "name": "bellows-app/plugin-github",
-    "description": "An intelligent command line utility that sits on top of Laravel Forge to get your site up and running with all of your third party integrations configured at the speed of light.",
+    "description": "Bellows plugin for automatically creating GitHub repos.",
     "keywords": [
         "laravel",
         "console",

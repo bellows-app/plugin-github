@@ -1,3 +1,3 @@
-# plugin-github
+# Bellows GitHub Plugin
 
-[https://bellows.dev](https://bellows.dev)
+[https://bellows.dev/docs/plugins/github](https://bellows.dev/docs/plugins/github)
